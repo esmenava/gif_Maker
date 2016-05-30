@@ -1,0 +1,38 @@
+[class='header'] {
+  font-size: 25px;
+  text-align: center;
+}
+.header {
+  color: white;
+  font-size: 35px;
+}
+[id='search-box'] {
+  background-color: #D65CFF;
+  border:2px solid blue;
+	border-radius:10px;
+	height: 35px;
+	width: 250px;
+}
+[id='Button'] {
+  font-weight: bold;
+  color: blue;
+  background-color: white;
+}
+[id='gifs-container'] {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+h6 {
+  color: white;
+  text-align: center;
+  
+}
+body {
+  height: 100vh;
+  background:linear-gradient(to bottom right, #FF85AD , blue);  
+}
+h1 {
+  font-family: Comic Sans MS;
+}
